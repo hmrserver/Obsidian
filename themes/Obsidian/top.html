@@ -1,0 +1,108 @@
+<!-- top wrapper -->  
+
+<div id="datetime"><a href="%logo%" target="_blank">
+<img id="m_logo" src="themes/Obsidian/images/logo.png" />
+  </a>
+<span class="slider"><i class="fa fa-bars"></i></span>
+<span class="datetime">
+<script>
+	//	Output date and time.
+var currentDate = new Date();
+var day = currentDate.getDate();
+var month = currentDate.getMonth() + 1;
+var year = currentDate.getFullYear();
+
+var currentTime = new Date();
+var hours = currentTime.getHours();
+var minutes = currentTime.getMinutes();
+
+var suffix = "AM";
+
+if (minutes < 10)
+	minutes = "0" + minutes;
+
+
+if (hours >= 12) {
+	suffix = "PM";
+	hours = hours - 12;
+}
+
+if (hours == 0) {
+	hours = 12;
+}
+
+document.write("<b class='mmddyyyy'>" + month + "/" + day + "/" + year + "</b><b class='ddmmyyyy'>" + day + "/" + month + "/" + year + "</b>");
+document.write("   |   <b>" + hours + ":" + minutes + " " + suffix + "</b>");</script>
+<ul>
+<li>
+<span>
+<i style="margin-right: 5px;" class="fa fa-square-o unclickmmddyyyy"></i>
+<i style="margin-right: 4px;" class="fa fa-check-square clickedmmddyyyy"></i>
+MM/DD/YYYY</span>
+</li>
+<li>
+<span>
+<i style="margin-right: 5px;" class="fa fa-square-o unclickddmmyyyy"></i>
+<i style="margin-right: 4px;" class="fa fa-check-square clickedddmmyyyy"></i>
+DD/MM/YYYY</span>
+</li>
+</ul>
+</span>
+<script>
+jQuery(function($){
+$(".unclickmmddyyyy").click(function() {
+		$(".ddmmyyyy").hide();
+		$(".mmddyyyy").show();
+		$(this).hide();
+		$(".clickedmmddyyyy").show();
+		$(".unclickddmmyyyy").show();
+		$(".clickedddmmyyyy").hide();
+		$.cookie('dateview', "ddmmyyyy", { expires: 365, path: '/' });
+		return false;
+	});
+	
+	$(".unclickddmmyyyy").click(function() {
+		$(".mmddyyyy").hide();
+		$(".ddmmyyyy").show();
+		$(this).hide();
+		$(".clickedddmmyyyy").show();
+		$(".unclickmmddyyyy").show();
+		$(".clickedmmddyyyy").hide();
+		$.cookie('dateview', "mmddyyyy", { expires: 365, path: '/' });
+		return false;
+	});
+	
+	if($.cookie("dateview") == "ddmmyyyy") {
+		$(".ddmmyyyy").hide();
+		$(".mmddyyyy").show();
+		$(".clickedmmddyyyy").show();
+		$(".unclickddmmyyyy").show();
+		$(".unclickmmddyyyy").hide();
+		$(".clickedddmmyyyy").hide();
+	}
+	else if($.cookie("dateview") == "mmddyyyy") {
+		$(".mmddyyyy").hide();
+		$(".ddmmyyyy").show();
+		$(".clickedddmmyyyy").show();
+		$(".unclickmmddyyyy").show();
+		$(".unclickddmmyyyy").hide();
+		$(".clickedmmddyyyy").hide();
+	} else {
+		$(".mmddyyyy").hide();
+		$(".ddmmyyyy").show();
+		$(".clickedddmmyyyy").show();
+		$(".unclickmmddyyyy").show();
+		$(".unclickddmmyyyy").hide();
+		$(".clickedmmddyyyy").hide();
+	};
+	});
+	</script>
+	</div>
+
+
+
+
+
+
+
+

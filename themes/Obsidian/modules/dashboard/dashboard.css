@@ -1,0 +1,99 @@
+.main-content {
+	background:transparent;
+	border:none;
+	border-radius:0px;
+	-moz-border-radius:0px;
+	box-shadow: none;
+}
+#column2 #ref.online_servers div{
+	float:left;
+	text-align:left;
+	width:35%;
+	height:15px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	-o-text-overflow: ellipsis;
+	-moz-binding: url('assets/xml/ellipsis.xml#ellipsis');
+}
+#column2 #ref.online_servers div#gamelink{
+	width:36%;
+	float:right;
+	text-align:right;
+}
+#column2 #ref.online_servers div.name{
+	width:29%;
+	height:18px;
+	white-space:nowrap;
+}
+#column2 #noref.online_servers div#gamelink{
+	float:right;
+	text-align:right;
+	width:40%;
+	height:18px;
+	overflow: hidden;
+}
+#column2 #noref.online_servers div.name{
+	float:left;
+	text-align:left;
+	width:57%;
+	height:18px;
+	overflow: hidden;
+}
+
+.bloc {
+box-shadow: 0 1px 1px rgba(0,0,0,0.1) !important;
+background-color: #152536 !important;
+}
+.progress {
+display: -webkit-box;
+display: -webkit-flex;
+display: -ms-flexbox;
+display: flex;
+overflow: hidden;
+font-size: .75rem;
+line-height: 1rem;
+text-align: center;
+background-color: rgba(28,50,74,0.701) !important;
+border-radius: 2px;
+border: none !important;
+}
+.progress .progress-bar {
+background: #37b799 !important;
+height: 1rem !important;
+color: #fff;
+font-size: .75rem;
+line-height: 1rem;
+text-align: center;
+}
+#refreshed-0 > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > center > b {
+font-weight: 400;
+}
+
+.ui-sortable-handle {
+	cursor: move;
+}
+
+
+/*Responsive*/
+@media(max-width:810px) {
+  .column {
+    width: 100%;
+    margin: 0%;
+    min-height: 0px !important;
+  }
+  .column .dragbox {
+    margin-bottom: 1%;
+  }
+  #column4 {
+width: 100% !important;
+margin-left: 0px !important;
+  }
+  #column4:nth-child(1) {
+margin-top: 8px !important;
+  }
+}
+@media(max-width:600px) {
+	.main-content {
+		padding:   0.1px;
+	}
+}

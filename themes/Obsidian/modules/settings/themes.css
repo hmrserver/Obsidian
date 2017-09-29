@@ -1,0 +1,11 @@
+.beta {
+    background-color: #e07600;
+    padding: .2em .6em .3em;
+    font-size: 78%;
+    font-weight: 700 !important;
+    color: #fff !important;
+    border-radius: .25em;
+    margin-left: 3px;
+    margin-top: 3px;
+    position: absolute;
+}

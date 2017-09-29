@@ -1,0 +1,62 @@
+#login_name,
+#users_passwd,
+#users_cpasswd,
+#users_fname,
+#users_lname,
+#users_email {
+    width: 320px;
+    height: 25px;
+    padding: 3px;
+    border-bottom: 1px solid #b1b0b0 !important;
+    background: transparent;
+    color: #eee;
+    border: 1px solid transparent;
+	margin: 12px 0px;
+}
+#login_name:focus,
+#users_passwd:focus,
+#users_cpasswd:focus,
+#users_fname:focus,
+#users_lname:focus,
+#users_email:focus {
+    border-bottom: 2px solid #fff !important;
+    border: 1px solid transparent;
+	outline:none;
+}
+
+.menu-bg {
+	background-color: rgba(24, 34, 37, 0.25);
+}
+
+#bottomWrapper {
+	background-color: rgba(24, 34, 37, 0.25);
+}
+
+.main-content {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    background: rgba(26, 49, 66, 0.7);
+    border-radius: 4px;
+}
+.register_header  {
+    margin: 0 -12px 20px -12px;
+    text-transform: uppercase;
+    background: rgba(26, 49, 66, 0.4);
+}
+
+td[align="left"] input {
+	margin: 10px 0px;
+}
+
+.register_button {
+    width: 320px;
+    background-color: #378cd5;
+    padding: 8px !important;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 300ms linear;
+    border-radius: 2px;
+}

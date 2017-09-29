@@ -1,0 +1,19 @@
+<script>
+(function() {
+	var nodes = document.getElementById('submenu_0').getElementsByTagName('span');
+	for(var i=0; i<nodes.length; i++) {
+		iconPath = nodes[i].getAttribute("data-icon_path");
+		if(typeof iconPath != "undefined" && iconPath != "")
+		{
+			nodes[i].style.background = "url("+iconPath+") 0% 50% / 16px 16px no-repeat scroll transparent";
+			nodes[i].style.padding = "5px 0 5px 25px";
+		}
+	}
+})();
+</script>
+<div id="bottomWrapper"> 
+        <div class="image" style="padding-top:20px"> Crafted with <i class="fa fa-heart pulse_heart" original-title="Love"></i> by <a href="https://github.com/hmrserver/" style="color: rgb(23, 108, 235);">HMR</a>
+		  %footer%
+        </div> 
+      </div> 
+    </div>

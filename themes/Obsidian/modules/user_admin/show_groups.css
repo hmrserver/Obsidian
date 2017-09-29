@@ -1,0 +1,67 @@
+table:nth-child(3) {
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 0 15px;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    border: 1px solid #0F1A26 !important;
+}
+table tbody tr.tr0 td {
+    background-color: #0F1A26;
+    font-size: 10pt;
+    padding: 6px 5px;
+}
+table:nth-child(3) tbody tr {
+    color: #fff;
+    padding: 6px 4px;
+    background-color: #162535 !important;
+}
+table:nth-child(3) tbody tr:nth-child(odd) {
+    background-color: #111F2D !important;
+}
+table:nth-child(3) tbody tr td {
+    padding: 5px 8px;
+    text-align: center;
+}
+.mini-btn {
+    padding: 1px 4px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin: 0 2px;
+    font-weight: normal !important;
+    color: #fff !important;
+    background-color: #37b799;
+    border: 2px solid #37b799;
+    font-size: 11px;
+    transition: all 0ms !important;
+}
+.mini-btn:hover {
+    border: 2px solid #248E75;
+    background: #248E75 !important;
+}
+.mini-btn:active {
+    border: 2px solid #204d74 !important;
+    background: #204d74 !important;
+}
+.mini-btn:before {
+ content: "\f067";
+}
+.red-btn {
+background-color: #e74c3c !important;
+border: 2px solid #e74c3c !important;;
+}
+.red-btn:before {
+ content: "\f00d";
+}
+.red-btn:hover {
+background-color: #c0392b !important;;
+border: 2px solid #c0392b !important;;
+}
+
+.mini-btn:before {
+font: normal normal normal 14px/1 FontAwesome;
+font-size: inherit;
+text-rendering: auto;
+padding-right: 2px;
+}

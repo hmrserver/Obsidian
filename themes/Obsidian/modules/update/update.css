@@ -1,0 +1,30 @@
+.success {
+    background-color: #20aa52;
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 78%;
+    font-weight: 700;
+    line-height: 2.5;
+    color: #fff;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+    position: relative;
+    top: -2px;
+}
+.failure {
+background-color: #dd4b39;
+display: inline;
+padding: .2em .6em .3em;
+font-size: 78%;
+font-weight: 700;
+line-height: 2.5;
+color: #fff;
+text-align: center;
+white-space: nowrap;
+vertical-align: baseline;
+border-radius: .25em;
+position: relative;
+top: -2px;
+}

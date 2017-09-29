@@ -1,0 +1,11 @@
+.remove_log:before {
+  font: normal normal normal 14px/1 FontAwesome;
+  content: "\f00d";
+  color: #e74c3c;
+  cursor: pointer;
+}
+.remove_log,.remove_log:hover,.remove_log:active {
+  padding: 2px 1px 0px 1px;
+  background-color:  transparent !important;
+  border: none !important;
+}

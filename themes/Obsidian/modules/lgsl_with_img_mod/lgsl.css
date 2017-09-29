@@ -1,0 +1,26 @@
+table {
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 0 15px;
+    text-align: left;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    border: 1px solid #0F1A26 !important;
+}
+
+.browse_rows_heading td {
+    background-color: #0F1A26;
+    font-size: 10pt;
+    padding: 6px 5px;
+}
+
+tr {
+    color: #fff;
+    padding: 6px 4px;
+    background-color: #162535 !important;
+}
+
+td {
+    padding: 5px 8px;
+    color: #fff;
+    border-bottom: 1px solid #0F1A26;
+}

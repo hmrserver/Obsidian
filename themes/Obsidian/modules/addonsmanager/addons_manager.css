@@ -1,0 +1,33 @@
+input[name="edit"] {
+background-color: #f1c40f !important;
+border: 2px solid #f1c40f !important;
+}
+input[name="edit"]:hover {
+background-color: #f39c12 !important;
+border: 2px solid #f39c12 !important;
+}
+input[name="edit"]:active,input[name="remove"]:active {
+    border: 2px solid #204d74 !important;
+    background: #204d74 !important;
+}
+
+input[name="remove"] {
+background-color: #e74c3c !important;
+border: 2px solid #e74c3c !important;
+}
+input[name="remove"]:hover {
+background-color: #c0392b !important;
+border: 2px solid #c0392b !important;
+}
+table.center:nth-last-child(2) > tbody > tr > td:nth-child(3) {
+    background-color: #20aa52;
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 78%;
+    font-weight: 700;
+    line-height: 3;
+    color: #fff;
+    text-align: center;
+    border-radius: .25em;
+    top: -2px;
+}

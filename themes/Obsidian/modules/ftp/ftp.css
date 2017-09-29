@@ -1,0 +1,10 @@
+.ftp-login {
+    text-align: center;
+    width: 100%;
+    border: 1px solid rgba(0,0,0,0.301);
+    background-color: rgba(0,0,0,0.301);
+}
+#ftp_iframe {
+border: 1px solid #0F1A26;
+margin-top: 20px;	
+}

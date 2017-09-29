@@ -1,0 +1,70 @@
+/* game image styling */
+input[type="image"]{
+	margin-top:-15px;
+	width:256px;
+	height:256px;
+}
+
+/* description image styling */
+img{
+	width:256px;
+	height:256px;
+}
+
+/* cart image styling */
+a img{
+	width:20px;
+	height:20px;
+}
+
+/* Game name below image */
+center {
+
+}
+
+/* pricing text */
+center em, .main-content > div:nth-child(2) > div:nth-child(1) > p:nth-child(3) {
+	background-color:#37b799 !important;
+	color:#fff !important;
+	padding: 2px 8px;
+	border-radius: 500px;
+}
+
+.main-content{
+	border:none;
+}
+
+table.center{
+	color:#379bb9;
+	padding:10px;
+}
+
+table.center tr td{
+	padding-top:5px;
+	color:#ffffff;
+	cursor:default;
+}
+
+a[href="?m=simple-billing&p=cart"]{
+	text-decoration:none;
+	background-color:#f39c12;
+	padding-top:5px;
+	padding-bottom:5px;
+	padding-left:10px;
+	padding-right:10px;
+	color:#fff !important;
+	border-radius:3px;
+}
+
+a img{
+	width: 22px;
+	height: 20px;
+}
+
+a[href="?m=simple-billing&p=cart"]:before {
+content: "\f07a";
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    padding-right: 5px;
+}

@@ -1,0 +1,29 @@
+tbody tr{
+	background:#f1f9fb !important;
+	padding-bottom:-30px !important;
+	border:none !important;
+	text-align: center;
+}
+
+tbody tr td p b{
+	color:#000000;
+	padding-left:3px;
+	text-transform: uppercase;
+	margin-bottom:-20px;
+	/*background-image: url(../../images/topBanner.png);*/ 
+	}
+
+table{
+	background:#f1f9fb;
+}
+
+tbody tr td{
+	border:1px solid #E4F3F7 !important;
+	background:#f1f9fb !important;
+	padding-left:10px !important;
+	padding-bottom:-30px !important;
+}
+
+tbody tr td img{
+	display: none;
+}

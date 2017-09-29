@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <favicon>themes/Obsidian/images/favicon.ico</favicon>
+  <loginbg>themes/Obsidian/images/bg.jpg</loginbg>
+  <bgblur>0</bgblur>
+  <logo>themes/Obsidian/images/logo.png</logo>
+  <pace>default</pace>
+  <responsive>0</responsive>
+</theme>

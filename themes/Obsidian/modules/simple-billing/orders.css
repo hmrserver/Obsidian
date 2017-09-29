@@ -1,0 +1,39 @@
+table.center tbody tr td{
+	padding-top:10px;
+}
+
+h4{
+	color:#fff;
+	margin-top:50px;
+	border:none !important;
+	background:none !important;
+	font-size: 150%;
+	margin-bottom:25px;
+	text-transform: uppercase;
+}
+
+table {
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 0 15px;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    border: 1px solid #0F1A26 !important;
+}
+
+th {
+    background-color: #0F1A26;
+    font-size: 10pt;
+    padding: 6px 5px;
+}
+
+tr {
+    color: #fff;
+    padding: 6px 4px;
+    background-color: #172839 !important;
+}
+
+.tr1 {
+    background-color: #111F2D !important;
+}

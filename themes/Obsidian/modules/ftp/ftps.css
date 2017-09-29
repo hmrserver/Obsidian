@@ -1,0 +1,87 @@
+#wrapper {
+    border-left: none !important;
+}
+#main {
+    background: #162535;
+}
+span.title {
+    margin: 5px;
+    position: absolute;
+}
+.smallbutton,td[onclick*="'view'"] a,td[onclick*="'edit'"] a {
+    padding: 4px 8px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin: 0 2px;
+    color: #fff !important;
+    background-color: #37b799;
+    border-color: #37b799;
+    border: 2px solid #37b799;
+  font-size: 12px;
+    font-weight: normal !important;
+}
+.smallbutton:hover,td[onclick*="'view'"] a:hover,td[onclick*="'edit'"] a:hover {
+    border: 2px solid #248E75;
+    background: #248E75 !important;
+    color: #eee;
+    border-radius: 2px;
+}
+.smallbutton:active,td[onclick*="'view'"] a:active,td[onclick*="'edit'"] a:active {
+	background-color:#204d74 !important;
+	border-color: #204d74;
+}
+.browse_rows_heading td a {
+    text-decoration: none !important;
+    color: #10c5b8;
+}
+#content {
+    width: auto !important;
+    margin: auto !important;
+}
+.browse_rows_actions > td:nth-child(1) > table:nth-child(1) > tbody:nth-child(1) > tr:nth-child(1) > td:nth-child(2) {
+  font-size: 12px;
+}
+.browse_rows_odd, .browse_rows_even {
+  font-size: 13px;
+}
+#content > div:nth-child(6) > div:nth-child(3) {
+    font-size: 13px!important;
+margin-top: auto !important;
+margin-left: auto !important;
+padding: 20px;
+background: #0F1A26;
+}
+.code span {
+    color: #000;
+    margin-right: 20px;
+}
+table {
+    font-family: 'Open Sans', sans-serif;
+    margin: 10px 0 15px;
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+    border-spacing: 1px;
+    border: 1px solid #0F1A26 !important;
+}
+
+.browse_rows_heading td {
+    background-color: #0F1A26;
+    font-size: 10pt;
+    padding: 6px 5px;
+}
+
+tr {
+    color: #fff;
+    padding: 6px 4px;
+    background-color: #162535 !important;
+}
+
+tr:hover,.browse_rows_actions,.browse_rows_actions tr td{
+    background-color: #111F2D !important;
+}
+td {
+    padding: 5px 8px;
+    color: #fff;
+    border-bottom: 1px solid #0F1A26;
+}

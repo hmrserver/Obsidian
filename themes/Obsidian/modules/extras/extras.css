@@ -1,0 +1,67 @@
+.install {
+  color: #3498db !important;
+}
+.remove {
+  color: #e74c3c !important;
+}
+b[style="color:red;"] {
+  color: #bdc3c7 !important;
+}
+.search {
+  color: #e67e22 !important;
+}
+b[style="color:orange;"] {
+  color: #f1c40f !important;
+}
+b[style="color:green;"] {
+  color: #1abc9c !important;
+}
+.uninstall {
+  color: #673AB7 !important;
+}
+
+h2 {
+    text-align: left !important;
+    font-weight: 300 !important;;
+    font-size: 35px;
+	background-color: transparent;
+	margin-left: 0%;
+}
+.main-content {
+  background-color: transparent !important;
+  box-shadow: none !important;
+}
+
+h4 {
+    background: #0F1A26 !important;
+}
+
+.bloc {
+    background-color: #162535 !important;
+     width: 46%;
+  margin: 0% !important;
+}
+div.dragbox:nth-child(3) {
+float: left;
+}
+div.dragbox:nth-child(4) {
+float: right;
+}
+button[name="update"] {
+	margin-top: 20px;
+}
+#updateButton {
+width: 100%;
+float: left;
+text-align: center;
+}
+
+/*Responsive*/
+@media(max-width:1100px) {
+ .bloc {
+   width: 96%;
+   position: relative;
+   float: left !important;
+   margin-bottom: 20px !important;
+  }
+}
