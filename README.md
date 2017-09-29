@@ -1,3 +1,4 @@
+![alt tag](https://raw.githubusercontent.com/hmrserver/Obsidian/master/obsidian.png)
 ## Obsidian Theme - BETA
 
 **What is Obsidian Theme ?**
