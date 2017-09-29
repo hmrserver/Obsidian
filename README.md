@@ -1,4 +1,4 @@
-## Obsidian Theme
+## Obsidian Theme - BETA
 
 **What is Obsidian Theme ?**
 
