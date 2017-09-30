@@ -3,8 +3,8 @@
 
 **What is Obsidian Theme ?**
 
-Obsidian Theme is a Dark and lightweight theme for Open Game Panel which allows admins to do customization of the style of Open Game Panel and make it look like a professional game panel.
-<br />Currently this theme is on its **BETA** stage, so their might have some bugs. Users requested to report them in our discord server, at this github repository issues, or at our theme thread of open game panel forum. so this theme can be further be improved.
+Obsidian Theme is a Dark and lightweight theme for Open Game Panel which allows admins to do customization of the style of Open Game Panel and make your own game panel more professional.<br>
+Currently this theme is on its **BETA** stage, so their might have some bugs. Users requested to report them in our discord server, at this github repository issues, or at our theme thread of open game panel forum. So this theme can be further be improved.
 
 Crafted by **HMR Team**.<br />
 Join our official discord group, whether you want talk with us or play with us in halo pc games :  https://discord.gg/PAAHDc5
