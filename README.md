@@ -64,4 +64,4 @@ It's cool, right? You can add your welcome message, too! Just follow the steps, 
 1. Make sure, you located the files correctly. Ex. ("themes/Obsidian/images/bg.jpg")
 1. I can't explain much for more details. Just try save and see your own result :).
 
-NOTE!!!! Since, This is still in BETA stage. You may need to check out everytime when you got time. We won't releasing version. So to get latest version. Always keep checking this repository. Report any problem in this github issues. But, you can also join our discord channel to talk more about this.
+**NOTE!!!!** : Since, This is still in BETA stage. You may need to check out everytime when you got time. We won't releasing version. So to get latest version. Always keep checking this repository. Report any problem in this github issues. But, you can also join our discord channel to talk more about this.
