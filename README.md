@@ -37,6 +37,8 @@ If you already downloaded. Progress to next instruction as what you want to fini
 4. Navigate to Administration > Theme Settings, Change the theme to Obsidian and save it.
 5. That's all, now you would have Obsidian Theme in it. ENJOY!
 
+-----------------------
+
 ## Customization
 
 ### Welcome Message
