@@ -46,10 +46,10 @@ If you already downloaded. Progress to next instruction as what you want to fini
 ![alt tag](http://puu.sh/xLKbi/b7f8a10d75.png)
 It's cool, right? You can add your welcome message, too! Just follow the steps, below :<br>
 1. Simply, You need to have admin's rights. Try login with your admin account
-1. Then, Go to Administraion > Theme Settings.
-1. After that, Navigate to "Theme Settings" and make sure "Welcome Title" setsON.
-1. Then, you can change the default Welcome Messages, to your own messages
-1. Lastly, If you want to have same label notification. you need to write codes, below here
+2. Then, Go to Administraion > Theme Settings.
+3. After that, Navigate to "Theme Settings" and make sure "Welcome Title" setsON.
+4. Then, you can change the default Welcome Messages, to your own messages
+5. Lastly, If you want to have same label notification. you need to write codes, below here
 ```
 <div class="callout"><span>Welcome!</span><p>You can change this title in '<b>Theme Settings</b>' under the '<b>Administration</b>' tab.</p></div>
 ```
@@ -58,10 +58,10 @@ It's cool, right? You can add your welcome message, too! Just follow the steps, 
 ![alt tag](https://i.imgur.com/yRZr9Rf.png)
 "Little Addition ? meh, i guess so. But at least, You can customize for sure. Continue for Tutorials!"<br>
 1. Simply, You need to have admin's rights. Try login with your admin account.
-1. Go to Administraion > Theme Settings.
-1. Navigate to "Extras Options"<br>
-1. Change the default settings to your personalization
-1. Make sure, you located the files correctly. Ex. ("themes/Obsidian/images/bg.jpg")
-1. I can't explain much for more details. Just try save and see your own result :).
+2. Go to Administraion > Theme Settings.
+3. Navigate to "Extras Options"<br>
+4. Change the default settings to your personalization
+5. Make sure, you located the files correctly. Ex. ("themes/Obsidian/images/bg.jpg")
+6. I can't explain much for more details. Just try save and see your own result :).
 
 **NOTE!!!!** : Since, This is still in BETA stage. You may need to check out everytime when you got time. We won't releasing version. So to get latest version. Always keep checking this repository. Report any problem in this github issues. But, you can also join our discord channel to talk more about this.
