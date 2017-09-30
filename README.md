@@ -53,7 +53,7 @@ It's cool, right? You can add your welcome message, too! Just follow the steps, 
 ```
 ### Favicon, Login Background Image, Background Blur Effect, Logo, Loading Bar.
 >
-![alt tag](https://imgur.com/yRZr9Rf)
+![alt tag](https://i.imgur.com/yRZr9Rf.png)
 "Little Addition ? meh, i guess so. But at least, You can customize for sure. Continue for Tutorials!"<br>
 1. Simply, You need to have admin's rights. Try login with your admin account.
 1. Go to Administraion > Theme Settings.
