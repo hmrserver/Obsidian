@@ -1,5 +1,9 @@
 <?php
-if($_POST) {
+if(!isset($_SESSION)){
+		session_name("opengamepanel_web");
+		session_start();
+	}
+if ($_POST && ($_SESSION['users_group'] == 'admin')) {  
 	if(isset($_POST['favicon'])) {
 		ConfigWrite('favicon', $_POST['favicon']);
 	}
