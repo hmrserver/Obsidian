@@ -1,4 +1,5 @@
 .beta {
+    z-index: 100;
     background-color: #e07600;
     padding: .2em .6em .3em;
     font-size: 78%;
@@ -8,4 +9,36 @@
     margin-left: 3px;
     margin-top: 3px;
     position: absolute;
+}
+.preview-f {
+    display: none;
+    background: #0f1a26;
+    padding: 3px;
+    border-radius: 4px;
+    position: absolute;
+    margin-top: -22px;
+    margin-left: -4px;
+}
+.preview-l img,.preview-lb img,.preview-f img {
+   max-height: 80px;
+    padding-right: 0 !important;
+}
+.preview-l,.preview-lb {
+    z-index: 1000;
+    display: none;
+    background: #0f1a26;
+    padding: 3px;
+    border-radius: 4px;
+    position: absolute;
+    margin-top: 0px;
+    margin-left: 16px;
+}
+#lp:hover .preview-l {
+    display: inline !important;
+}
+#fp:hover .preview-f {
+    display: inline !important;
+}
+#lbp:hover .preview-lb {
+    display: inline !important;
 }
