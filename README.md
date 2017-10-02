@@ -41,6 +41,16 @@ If you already downloaded. Progress to next instruction as what you want to fini
 
 ## Customization
 
+### Profile Image (Concept)
+>
+![alt tag](https://i.imgur.com/XnUlWEt.png)<br>
+I know, it's waste of feature, maybe. It uses Cookies Browser. Which you can only see in your pc and your browser that you use, and won't change to any image even if you login to another account. But, you can add your profile image. Just follow the step, below :<br>
+1. First, Make sure you already logged in with any of your account.
+2. Then, If Sidebarmenu hasn't expanded yet. try to expand it by click/touch the "3 lines".
+3. So, You will be able to see the profile image, You can upload your own image.
+4. Camera Icon for upload. Trash Icon for remove your icons.
+5. This will affect to **YOUR PC** only.
+
 ### Welcome Message
 >
 ![alt tag](http://puu.sh/xLKbi/b7f8a10d75.png)
@@ -64,4 +74,4 @@ It's cool, right? You can add your welcome message, too! Just follow the steps, 
 5. Make sure, you located the files correctly. Ex. ("themes/Obsidian/images/bg.jpg")
 6. I can't explain much for more details. Just try save and see your own result :).
 
-**NOTE!!!!** : Since, This is still in BETA stage. You may need to check out everytime when you got time. We won't releasing version. So to get latest version. Always keep checking this repository. Report any problem in this github issues. But, you can also join our discord channel to talk more about this.
+**NOTE!!!!** : Since, This is still in BETA stage. You may need to check out everytime when you got time. We won't releasing version. So to get latest version. Always keep checking this repository. Report any problem in this github issues. But, you can also join our discord channel to talk more about this or for giving us feedbacks! Enjoy.
