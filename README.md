@@ -44,7 +44,7 @@ If you already downloaded. Progress to next instruction as what you want to fini
 ### Profile Image (Concept)
 >
 ![alt tag](https://i.imgur.com/XnUlWEt.png)<br>
-In this theme we have an exclusive feature called "Avatar/ProfileImage" System, which saves users avatar/images at web host(i.e at "../themes/Obsidian/upload") which this will save your Avatar and will be able to load by your current username. For users who want to have their Avatar. Follow the step, below :<br>
+In this theme we have an exclusive feature called **"Avatar/ProfileImage"** System, which saves users avatar/images at web host(i.e at "../themes/Obsidian/upload") which this will save your Avatar and will be able to load by your current username. For users who want to have their Avatar. Follow the step, below :<br>
 1. First, Make sure you already logged in with any of your account.
 2. Then, If Sidebarmenu hasn't expanded yet. try to expand it by click/touch the "3 lines".
 3. So, You will be able to see the profile image, You can upload your own image.
