@@ -44,12 +44,15 @@ If you already downloaded. Progress to next instruction as what you want to fini
 ### Profile Image (Concept)
 >
 ![alt tag](https://i.imgur.com/XnUlWEt.png)<br>
-I know, it's waste of feature, maybe. It uses Cookies Browser. Which you can only see in your pc and your browser that you use, and won't change to any image even if you login to another account. But, you can add your profile image. Just follow the step, below :<br>
+In this theme we have exclusivly added Avatar system which saves users avatar/images at web host(i.e at themes/Obsidian/upload) which for each user would be same for any divce they upload or login from. Fo using this feature Just follow the step, below :<br>
 1. First, Make sure you already logged in with any of your account.
 2. Then, If Sidebarmenu hasn't expanded yet. try to expand it by click/touch the "3 lines".
 3. So, You will be able to see the profile image, You can upload your own image.
 4. Camera Icon for upload. Trash Icon for remove your icons.
-5. This will affect to **YOUR PC** only.
+5. If it isn't saving then probably its because of the insufficient permission given to the upload folder(recommended to be 777). For setting the proper permission to the folder just open your webhost's SSH and execute the command mentioned below:
+```
+chown -Rf www-data:www-data /var/www/
+```
 
 ### Welcome Message
 >
