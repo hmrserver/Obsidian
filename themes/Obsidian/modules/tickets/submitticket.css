@@ -1,0 +1,34 @@
+.ticket_elementDiv input, select, textarea {
+ padding: 4px !important;
+width: 90%;
+margin-bottom: 20px;
+}
+.ticket_buttonDiv input[type="submit"] {
+ width: 100%;
+  clear: none;
+}
+
+.ticket_elementDiv label, input {float: left}
+.ticket_elementDiv label { clear: left }
+.ticket_elementDiv label { font-weight: bold; }
+.ticket_elementDiv label { width:70px; }
+.ticketErrorHolder {
+    padding: 15px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    border-color: #d73925;
+    background-color: #dd4b39 !important;
+}
+.ticketErrorHolder .failure {
+    color: #fff;
+    font-weight: bold
+}
+.ticketErrorList li {
+	list-style-type: none;
+
+}
+.ticketError {
+	text-align: left;
+}
