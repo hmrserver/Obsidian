@@ -1,6 +1,8 @@
 ![alt tag](https://raw.githubusercontent.com/hmrserver/Obsidian/master/obsidian.png)
 ## Obsidian Theme - BETA
 
+**NOTE!!!!** : Since, This is still in BETA stage. You may need to check out everytime when you got time. We won't releasing version. So to get latest version. Always keep checking this repository. Report any problem in this github issues. But, you can also join our discord channel to talk more about this or for giving us feedbacks! Enjoy.
+
 **What is Obsidian Theme ?**
 
 Obsidian Theme is a Dark and lightweight theme for Open Game Panel which allows admins to do customization of the style of Open Game Panel and make your own game panel more professional.<br>
@@ -44,7 +46,7 @@ If you already downloaded. Progress to next instruction as what you want to fini
 ### Profile Image (Concept)
 >
 ![alt tag](https://i.imgur.com/XnUlWEt.png)<br>
-In this theme we have an exclusive feature called "Avatar/ProfileImage" System, which saves users avatar/images at web host(i.e at "../themes/Obsidian/upload") which this will save your Avatar and will be able to load by your current username. For users who want to have their Avatar. Follow the step, below :<br>
+In this theme we have an exclusive feature called **"Avatar/ProfileImage"** System, which saves users avatar/images at web host(i.e at "../themes/Obsidian/upload") which this will save your Avatar and will be able to load by your current username. For users who want to have their Avatar. Follow the step, below :<br>
 1. First, Make sure you already logged in with any of your account.
 2. Then, If Sidebarmenu hasn't expanded yet. try to expand it by click/touch the "3 lines".
 3. So, You will be able to see the profile image, You can upload your own image.
@@ -76,5 +78,3 @@ It's cool, right? You can add your welcome message, too! Just follow the steps, 
 4. Change the default settings to your personalization
 5. Make sure, you located the files correctly. Ex. ("themes/Obsidian/images/bg.jpg")
 6. I can't explain much for more details. Just try save and see your own result :).
-
-**NOTE!!!!** : Since, This is still in BETA stage. You may need to check out everytime when you got time. We won't releasing version. So to get latest version. Always keep checking this repository. Report any problem in this github issues. But, you can also join our discord channel to talk more about this or for giving us feedbacks! Enjoy.
