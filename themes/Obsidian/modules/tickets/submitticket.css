@@ -1,17 +1,18 @@
 .ticket_elementDiv input, select, textarea {
  padding: 4px !important;
-width: 90%;
+width: 96%;
 margin-bottom: 20px;
+ float: none;
 }
 .ticket_buttonDiv input[type="submit"] {
  width: 100%;
   clear: none;
 }
 
-.ticket_elementDiv label, input {float: left}
-.ticket_elementDiv label { clear: left }
+.ticket_elementDiv label, input {float: left;}
+.ticket_elementDiv label { clear: left; }
 .ticket_elementDiv label { font-weight: bold; }
-.ticket_elementDiv label { width:70px; }
+.ticket_elementDiv label { width:70px; margin-left: 1%;}
 .ticketErrorHolder {
     padding: 15px;
     margin-bottom: 20px;

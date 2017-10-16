@@ -195,3 +195,41 @@ border: 2px solid #c0392b !important;
 .ticketError {
 	text-align: left;
 }
+div.stars {
+    width: 270px;
+    display: inline-block;
+}
+
+input.star { 
+    display: none;
+}
+
+label.star {
+    float: right;
+    color: #444;
+    transition: all .2s;
+    font-size: 18px;
+    padding: 1px;
+}
+
+input.star:checked ~ label.star:before {
+    content: '\2605';
+    color: #FD4;
+    transition: all .25s;
+}
+
+input.star-5:checked ~ label.star:before {
+
+}
+
+input.star-1:checked ~ label.star:before {
+    color: #F62;
+}
+
+label.star:hover {
+    transform: rotate(-15deg) scale(1.3);
+}
+
+label.star:before {
+    content: '\2605';
+}
