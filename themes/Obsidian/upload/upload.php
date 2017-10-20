@@ -1,7 +1,7 @@
 <?php
 $valid_extensions = array('jpeg', 'jpg', 'png', 'gif', 'bmp'); // valid extensions
 $path = '';
-$max_image_size = 2097152; // 2 MB = 2097152 bytes
+$max_image_size = 2097152; // 2 MB = 2097152 bits
 if(!isset($_SESSION)){
 		session_name("opengamepanel_web");
 		session_start();
