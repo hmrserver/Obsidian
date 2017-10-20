@@ -46,12 +46,20 @@ If you already downloaded. Progress to next instruction as what you want to fini
 ### Profile Image (Concept)
 >
 ![alt tag](https://i.imgur.com/XnUlWEt.png)<br>
-In this theme we have an exclusive feature called **"Avatar/ProfileImage"** System, which saves users avatar/images at web host(i.e at "../themes/Obsidian/upload") which this will save your Avatar and will be able to load by your current username. For users who want to have their Avatar. Follow the step, below :<br>
+In this theme we have an exclusive feature called **"Avatar/ProfileImage"** System, which saves users avatar/images at web host(i.e at "../themes/Obsidian/upload") which this will save your Avatar and will be able to load by your current username. For users who want to have their Avatar.
+
+There is an admin tool that you can set called **"Avatar max limit size"**. This enable admins to setup a maximum specific size (in bits) which user's are not allowed to upload their avatars beyond the limit size. Only Admin can customize it. For setting it up, Please go to **../upload/upload.php**. Open with your text-editor, I recommend you to use __Atom__ which is available to Windows & Linux. Then, Go to 4th code line. And Replace the value of *"max_image_size"* within your own specific size. Ex :
+```
+$max_image_size = 2097152; // 2 MB = 2097152 bytes
+```
+
+For Usage. Please, Follow the step below :<br>
 1. First, Make sure you already logged in with any of your account.
 2. Then, If Sidebarmenu hasn't expanded yet. try to expand it by click/touch the "3 lines".
 3. So, You will be able to see the profile image, You can upload your own image.
 4. Camera Icon for upload. Trash Icon for remove your icons.
-5. If it isn't saving then probably its because of the insufficient permission given to the upload folder(recommended to be 777). For setting the proper permission to the folder just open your webhost's SSH and execute the command mentioned below:
+
+**NOTE :** If it isn't saving then probably its because of the insufficient permission given to the upload folder(recommended to be 777). For setting the proper permission to the folder just open your webhost's SSH and execute the command mentioned below:
 ```
 chown -Rf www-data:www-data /var/www/
 ```
