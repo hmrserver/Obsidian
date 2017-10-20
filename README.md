@@ -50,7 +50,7 @@ In this theme we have an exclusive feature called **"Avatar/ProfileImage"** Syst
 
 There is an admin tool that you can set called **"Avatar max limit size"**. This enable admins to setup a maximum specific size (in bits) which user's are not allowed to upload their avatars beyond the limit size. Only Admin can customize it. For setting it up, Please go to **../upload/upload.php**. Open with your text-editor, I recommend you to use __Atom__ which is available to Windows & Linux. Then, Go to 4th code line. And Replace the value of *"max_image_size"* within your own specific size. Ex :
 ```
-$max_image_size = 2097152; // 2 MB = 2097152 bits
+$max_image_size = 2048; // in KB (2 MB = 1024 KB)
 ```
 
 For Usage. Please, Follow the step below :<br>
