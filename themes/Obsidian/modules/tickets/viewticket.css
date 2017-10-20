@@ -233,3 +233,49 @@ label.star:hover {
 label.star:before {
     content: '\2605';
 }
+.ticket_closed {
+    padding: 12px;
+    margin: 8px 0;
+    background-color: #96979b;
+    color: #fff;
+    text-align: center;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.ticket_ReplyBox.status_ticket_closed {
+    display: none;
+}
+
+.ticket_reply_notice {
+    cursor: pointer;
+    right: 0;
+    text-align: center;
+    background-color: #0073b7;
+    color: #fff;
+    padding: 12px;
+    font-size: 14px;
+    margin: 8px 0;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.ticket_reply_notice .left, .ticket_reply_notice .center, .ticket_reply_notice .right {
+    display: inline-block;
+}
+
+.ticket_reply_notice .left {
+    float: left;
+}
+
+.ticket_reply_notice .right {
+    font-weight: bold;
+    font-size: 25px;
+    float: right;
+    height: 0;
+    margin-top: -7px;
+}
+
+.clear {
+    clear: both;
+}

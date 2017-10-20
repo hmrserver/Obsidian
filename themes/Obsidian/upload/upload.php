@@ -1,6 +1,7 @@
 <?php
 $valid_extensions = array('jpeg', 'jpg', 'png', 'gif', 'bmp'); // valid extensions
 $path = '';
+$max_image_size = 2097152; // 2 MB = 2097152 bytes
 if(!isset($_SESSION)){
 		session_name("opengamepanel_web");
 		session_start();
@@ -12,6 +13,9 @@ unlink($_SESSION['user_id'].".".$ext);
 	}
 if(isset($_FILES['image']))
 {
+	if($_FILES['image']['size'] > 2097152 ) { 
+		echo '<img id="avatar" src="themes/Obsidian/images/limit.png">';
+	} else {
 	//echo "test";
  $tmp = $_FILES['image']['tmp_name'];
 
@@ -35,6 +39,7 @@ if(isset($_FILES['image']))
  {
   echo '<img id="avatar" src="themes/Obsidian/images/error.png">';
  }
+	}
 }
 
 ?>
