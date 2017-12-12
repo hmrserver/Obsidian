@@ -1,7 +1,7 @@
 textarea[name="reply_content"] {
     width: 99% !important;
 }
-.divTable{    
+.divTable{
     border-spacing: 0px;
     border-collapse: collapse;
     width: 100%;
@@ -32,10 +32,11 @@ textarea[name="reply_content"] {
     text-align: right;
 }
 .contentblock_ticket {
-    
+
 }
 .ticket_ReplyBox {
     margin-top:12px;
+    border-bottom: 1px dashed #0F1A26;
 }
 input[name="ticket_close"] {
 background-color: #e74c3c !important;
@@ -200,7 +201,7 @@ div.stars {
     display: inline-block;
 }
 
-input.star { 
+input.star {
     display: none;
 }
 
@@ -279,3 +280,28 @@ label.star:before {
 .clear {
     clear: both;
 }
+
+#jsErrorBox { display: none; margin-bottom: 24px; }
+
+.attachment_container { width: 100%; margin-top: 6px; }
+
+.attachment_header { margin-bottom: 6px; font-weight: bold; font-size: 14px; }
+
+.attachment_add { float: right; }
+.attachment_add button { padding: 10px 24px; }
+
+.attachment_add button:disabled { cursor: not-allowed; }
+
+.attachment_inputs { float: left; width: 80%; }
+.attachment_inputs input[type="file"] {
+    display: block;
+    width: 100%;
+    padding: 10px 10px;
+    margin-bottom: 6px;
+    background-color: rgba(55,138,183,0.101);
+    font-size: 16px;
+    color: #a6a7a9;
+    border-radius: 3px;
+}
+
+.attachment_info { clear: both; margin-bottom: 6px; color: #777; }
