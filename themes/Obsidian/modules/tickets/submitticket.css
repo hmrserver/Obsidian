@@ -33,3 +33,28 @@ margin-bottom: 20px;
 .ticketError {
 	text-align: left;
 }
+
+#jsErrorBox { display: none; margin-bottom: 24px; }
+
+.attachment_container { width: 100%; margin-top: 6px; }
+
+.attachment_header { margin-bottom: 6px; font-weight: bold; font-size: 14px; }
+
+.attachment_add { float: right; }
+.attachment_add button { padding: 10px 24px; }
+
+.attachment_add button:disabled { cursor: not-allowed; }
+
+.attachment_inputs { float: left; width: 80%; }
+.attachment_inputs input[type="file"] {
+    display: block;
+    width: 100%;
+    padding: 10px 10px;
+    margin-bottom: 6px;
+    background-color: rgba(55,138,183,0.101);
+    font-size: 16px;
+    color: #a6a7a9;
+    border-radius: 3px;
+}
+
+.attachment_info { clear: both; margin-bottom: 6px; color: #777; }
