@@ -1,7 +1,7 @@
 <?php
 $valid_extensions = array('jpeg', 'jpg', 'png', 'gif', 'bmp'); // valid extensions
 $path = '';
-$max_image_size = 2048; // in KB (2 MB = 1024 KB)
+$max_image_size = 2048; // in KB (2 MB = 2048 KB)
 if(!isset($_SESSION)){
 		session_name("opengamepanel_web");
 		session_start();
@@ -13,7 +13,7 @@ unlink($_SESSION['user_id'].".".$ext);
 	}
 if(isset($_FILES['image']))
 {
-	if($_FILES['image']['size'] > ($max_image_size*8192) { 
+	if($_FILES['image']['size'] > ($max_image_size*8192)) { 
 		echo '<img id="avatar" src="themes/Obsidian/images/limit.png">';
 	} else {
 	//echo "test";
