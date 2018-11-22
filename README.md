@@ -16,7 +16,8 @@ Join our official discord channel to follow our development or to talk more abou
 1. User may edit the item, but can't replace My Theme Copyright & OGP Copyright.
 2. User can't re-distribute the theme's copy for free or paid.
 3. User should not copy any feature of this item.
-4. User need confirmation with us before taking theme as business and removing copyright mark (footer, header component, etc.)
+4. User need confirmation with us before taking theme as business and removing copyright mark (footer, header component, etc.).
+5. User can't expose decrypted files publically.
 
 -----------------------
 
