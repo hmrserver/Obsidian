@@ -9,7 +9,7 @@ Obsidian Theme is a Dark and lightweight theme for Open Game Panel which allows 
 Currently this theme is on its **BETA** stage, so their might have some bugs. Users requested to report them in our discord server, at this github repository issues, or at our theme thread of open game panel forum. So this theme can be further be improved. Final release will come later.
 
 Crafted by **HMR Team**.<br />
-Join our official discord channel to follow our development or to talk more about us : https://discord.io/HMR-Foundation
+Join our official discord channel to follow our development or to talk more about us : https://discord.gg/Tk8zbdR
 
 ## Custom License:
 >
